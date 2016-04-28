@@ -1,4 +1,4 @@
-stap 1: apt-get install libtool intltool autoconf automake pkg-config libxslt1.1 xsltproc gnome-doc-utils libxml2 docbook-xml docbook-xsl itstool make
+stap 1: apt-get install libtool intltool autoconf automake pkg-config libxslt1.1 xsltproc gnome-doc-utils libxml2 docbook-xml docbook-xsl itstool make gtk-doc-tools libgtk2.0-dev libglib2.0-dev 
 
 stap 2: unzip gtk-doc
 
